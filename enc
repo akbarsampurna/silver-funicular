@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\datadog-agent\datadog-agent.nupkg" checksum="0D1A9EE03D5DC51C739F5B203003746C" />
+    <file path="C:\ProgramData\chocolatey\lib\datadog-agent\datadog-agent.nuspec" checksum="EDFB0516D57343EE802EB315E3842300" />
+    <file path="C:\ProgramData\chocolatey\lib\datadog-agent\tools\chocolateyinstall.ps1" checksum="05DBF5D5BB25AA4B421022DB1B339441" />
+    <file path="C:\ProgramData\chocolatey\lib\datadog-agent\tools\LICENSE.txt" checksum="75FEBD5861CE11295B0D6CA9A0FC9F74" />
+    <file path="C:\ProgramData\chocolatey\lib\datadog-agent\tools\VERIFICATION.txt" checksum="ADF7C8B5FA5EBEA96013EB172B46DB75" />
+  </files>
+</fileSnapshot>
